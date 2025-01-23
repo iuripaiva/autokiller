@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/autokiller-navegador.apple-touch-icon.png-b5f9129b42f601ff3179a9d6a1dd470f.stex"
+path="res://.import/autokiller-navegador.apple-touch-icon.png-0bf034da2550930e1ca20b3644cfd6d1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ak-navegador/autokiller-navegador.apple-touch-icon.png"
-dest_files=[ "res://.import/autokiller-navegador.apple-touch-icon.png-b5f9129b42f601ff3179a9d6a1dd470f.stex" ]
+source_file="res://ak-navegador/autokiller/autokiller-navegador.apple-touch-icon.png"
+dest_files=[ "res://.import/autokiller-navegador.apple-touch-icon.png-0bf034da2550930e1ca20b3644cfd6d1.stex" ]
 
 [params]
 

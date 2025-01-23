@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/autokiller-navegador.png-ec36082a1181ff56e3a269ddb477247c.stex"
+path="res://.import/autokiller-navegador.png-989590367bc7f081d87e7c48bb4365d2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ak-navegador/autokiller-navegador.png"
-dest_files=[ "res://.import/autokiller-navegador.png-ec36082a1181ff56e3a269ddb477247c.stex" ]
+source_file="res://ak-navegador/autokiller/autokiller-navegador.png"
+dest_files=[ "res://.import/autokiller-navegador.png-989590367bc7f081d87e7c48bb4365d2.stex" ]
 
 [params]
 
