@@ -3,7 +3,7 @@
 // that they need an Internet connection to run the project if desired.
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
-const CACHE_VERSION = "1737594007|7444580194";
+const CACHE_VERSION = "1737610321|23758146431";
 const CACHE_PREFIX = "Autokiller-sw-cache-";
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 const OFFLINE_URL = "autokiller-navegador.offline.html";
